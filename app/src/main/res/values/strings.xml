@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Анкета студента</string>
+
+    <!-- Заголовки/подписи -->
+    <string name="title_main">Анкета студента</string>
+    <string name="label_full_name">ФИО</string>
+    <string name="label_group">Группа</string>
+    <string name="label_age">Возраст</string>
+
+    <!-- Подсказки в полях -->
+    <string name="hint_full_name">Иванов Иван Иванович</string>
+    <string name="hint_group">ИС-21</string>
+    <string name="hint_age">18</string>
+
+    <!-- Кнопки -->
+    <string name="btn_calculate">Рассчитать</string>
+    <string name="btn_next">Далее</string>
+    <string name="btn_back">Назад</string>
+
+    <string name="result_format">Студент: %1$s\nГруппа: %2$s\nВозраст: %3$d</string>
+    <string name="result_status_adult">Совершеннолетний</string>
+    <string name="result_status_minor">Несовершеннолетний</string>
+
+    <string name="error_name">Введите ФИО (минимум два слова)</string>
+    <string name="error_group">Введите группу</string>
+    <string name="error_age">Возраст должен быть целым числом от 14 до 100</string>
+
+    <string name="title_second">Информация о студенте</string>
+    <string name="extra_name">extra_name</string>
+    <string name="extra_group">extra_group</string>
+    <string name="extra_age">extra_age</string>
+    <string name="second_format">ФИО: %1$s\nГруппа: %2$s\nВозраст: %3$d</string>
+
+    <string name="cd_illustration">Иллюстрация студента</string>
+    <string name="cd_result_icon">Значок результата</string>
+</resources>
